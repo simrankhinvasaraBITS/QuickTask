@@ -67,11 +67,11 @@ QuickTask utilizes **Back4App** as its backend for the following:
   ├── lib/  
   │   ├── bloc/           # BLoC classes  
   │   ├── model/          # Data models
-  │   ├── network/          # API classes
-  │   ├── pages/         # UI screens  
-  │   ├── repository/        # Repository classes
-  │   ├── utils/           # Helper utilities  
-  │   └── widgets/         # Reusable UI components  
-  └── pubspec.yaml         # Project dependencies
+  │   ├── network/        # API classes
+  │   ├── pages/          # UI screens  
+  │   ├── repository/     # Repository classes
+  │   ├── utils/          # Helper utilities  
+  │   └── widgets/        # Reusable UI components  
+  └── pubspec.yaml        # Project dependencies
   ```
 ---
